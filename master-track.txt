@@ -1,5 +1,5 @@
 Nothing more than a text file.
-Master version 1
 And here goes Master version 3
 This will be a comment and version 4. And version 2 will be deleted.
 This shall be a commit to "exp" branch.
+Version 1 is abandoned from "exp" branch.
