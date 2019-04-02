@@ -1,3 +1,4 @@
 Nothing more than a text file.
 Master version 1
 This will be Master version 2
+And here goes Master version 3
